@@ -4,10 +4,13 @@ h1 {
   text-align: center;
 
 }
-h2 {
+h4 {
   font-family: Apple Braille;
-  font-size: 54px;
-  text-align: center;
+  font-size: 36px;
+  text-align: left;
+}
+a {
+  font-size: 22px;
 }
 p {
   font-size: 18px;
@@ -24,5 +27,9 @@ body img {
   width: 700px;
   display: block;
   margin: 0 auto;
-  padding: 25px 50px 75px 100px;
+  padding: 25px 50px 25px 100px;
+}
+figcaption {
+  text-align: center;
+  font-size: 18px;
 }
