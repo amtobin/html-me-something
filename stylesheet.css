@@ -34,6 +34,9 @@ figcaption {
   font-size: 18px;
 }
 .place {
-  background-color: yellow;
+  color: yellow;
   padding: 10px;
+}
+#top {
+  background-color: red;
 }
