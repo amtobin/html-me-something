@@ -33,3 +33,7 @@ figcaption {
   text-align: center;
   font-size: 18px;
 }
+.place {
+  background-color: yellow;
+  padding: 10px;
+}
